@@ -3,7 +3,11 @@ define('DB_SERVER', '127.0.0.1');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', ''); 
 define('DB_NAME', 'php_album_sales');
-
+/**
+ * credentials for the MySQL database connection.
+ * admin
+ * password
+ */
 /**
  * Creates and returns a MySQLi database connection object.
  * Terminates script on connection failure.
