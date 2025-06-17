@@ -77,3 +77,16 @@ This project includes a PHP-based web application for managing album sales with 
 The website and all exam answers are uploaded to the repository:
 
 https://github.com/archieeeeeeeeeee/ELITE-EXAM-ANSWERS
+
+## Album Sales Laravel App Bonus
+
+This folder `EXAM ANSWERS/album-sales-laravel-app-bonus/` contains the Laravel implementation of the bonus features for the Album Sales project, including:
+
+- Laravel migrations for artists and albums tables.
+- Eloquent models for Artist and Album with relationships.
+- Controllers for Artist, Album, Authentication, and Dashboard with CRUD and API endpoints.
+- API routes with authentication using bearer tokens.
+- Seeder to populate artists and albums from CSV file using Faker for missing details.
+- Dashboard API endpoints for album sales statistics.
+
+This Laravel app complements the PHP web application by providing a modern API backend with authentication and advanced features.
