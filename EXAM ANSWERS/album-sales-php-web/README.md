@@ -41,5 +41,28 @@ This is a PHP-based web application for managing album sales. It provides functi
 ## Screenshots
 Screenshots of the login page and admin dashboard are available in the `EXAM ANSWERS/album-sales-screenshots/` directory.
 
+## Models
+
+### Artists
+- Fields:
+  - Code (id)
+  - Name
+- Functions:
+  - Read the full details of a created artist
+  - Update the full details of a created artist
+  - Delete the details of a created artist
+
+### Albums
+- Fields:
+  - Year
+  - Name
+  - Sales
+  - Album Cover Picture (album_cover_path)
+- Functions:
+  - Read the full details of an album
+  - Update an album
+  - Delete an album
+  - Add a picture of the album cover
+
 ## Author
 Developed by Archie
