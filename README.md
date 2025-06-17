@@ -2,6 +2,8 @@
 
 This repository contains all my answers for the ELITE EXAM.
 
+All files in this repository are answers for the exam, including the document `ELITE EXAM 1.2.docx` located in the `FOLDER/` directory.
+
 ## Album Sales PHP Web Application
 
 This project includes a PHP-based web application for managing album sales with the following features:
